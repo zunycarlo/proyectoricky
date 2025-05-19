@@ -1,4 +1,4 @@
-import './location.css'
+import "./location.css"
 
 function Location ({ location }) {
   if (!location) return null
