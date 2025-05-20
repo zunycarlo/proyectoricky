@@ -1,8 +1,8 @@
 import { useEffect, useState } from 'react';
 import { useFetchApi } from './hooks/useFetchApi';
 import { getRandomlocationById } from './lib/utils';
-import Location from './componets/location';
-import Residents from './componets/residents';
+import Location from './componets/Location';
+import Residents from './componets/Residents';
 import Search from './componets/Search';
 
 import './App.css'
